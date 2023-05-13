@@ -15,8 +15,8 @@ Website: https://health-house-official-shivansh.vercel.app/
 
 ![health house login](https://github.com/official-Shivansh/low-egg-5548/assets/117287131/52d76467-7edf-45ef-b2cc-e727a9540426)
 
-## Landing Page
-![L3](https://user-images.githubusercontent.com/117287131/229430624-39fcdb96-bd53-460f-b07f-7d56e76134ef.png)
+## medicine Page
+
 
 
 This is an E-Commerce website which speciaizes in selling ladies products for all age groups. The website provides 33,000 products of different types Perfume, Lipstick, Foundations, and other related to cosmetics products .
